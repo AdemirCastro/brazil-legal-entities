@@ -1,0 +1,5 @@
+*.zip
+*.csv
+*.pdf
+*.env
+*.parquet
